@@ -9,10 +9,10 @@
 
 ##  About Me
 
-- 🌱 Currently learning **Node.js**
-- 💻 Interested in **Web Development & Modern UI**
-- 🧠 Always learning new technologies
-- 🎯 Goal: Become a **Full-Stack Developer**
+-  Currently learning **Node.js**
+-  Interested in **Web Development & Modern UI**
+-  Always learning new technologies
+-  Goal: Become a **Full-Stack Developer**
 
 ---
 
